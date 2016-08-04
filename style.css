@@ -1,0 +1,45 @@
+body {
+	background-image: url(http://hdwallpaperia.com/wp-content/uploads/2013/11/Farm-House-Wallpaper.jpg);
+	background-repeat: no-repeat;
+	background-color: #ccff99;
+	background-size: cover;
+
+
+
+}
+.container {
+	
+ 	height: 200px;
+    width: 400px;
+    background: 00ffff;
+    opacity: 50%;
+	color: white;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+
+
+
+	/*font-size: 25px;
+	background-color: rgba(119,	136, 153, .55);
+	margin: 0 auto;
+	text-align: center;
+	line-height: 300%;
+	width: 100%;
+	display: inline-block; */
+	
+
+}
+input {
+	font-family: 'Amatic SC', sans serif;
+	display: block;
+}
+/*.yoyo {
+
+   
+
+}*/
+
+
